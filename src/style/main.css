@@ -50,7 +50,7 @@ h2 {
 }
 
 .game {
-    border: 1px solid #ff0000;
+    
     width: 430px;
     height: 430px;
     display: flex;
@@ -75,7 +75,6 @@ h2 {
 }
 /**/
 .item::after {
-    
     content: "";
     position: absolute;
     inset: 0;
